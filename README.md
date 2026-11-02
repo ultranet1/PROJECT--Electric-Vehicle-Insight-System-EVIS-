@@ -40,4 +40,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## Contact
-For questions or support, contact `mderboni` via GitHub or open an issue in the repository.
+For questions or support, contact `mderboni` via GitHub or open an issue in the repository..
